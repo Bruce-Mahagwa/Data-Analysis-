@@ -6,6 +6,9 @@
 
 The Dataset https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000used for this project contains 81 variables containing information about Prosper Bank transactions from the period 2007 and 2014. This analysis focused on the following variables: LoanStatus, EmploymentStatus, CurrentDelinquencies, IncomeRange, IsBorrowerHomeOwner, BorrowerRate, ProsperPrincipalBorrowed, Term, BorrowerAPR, AmountDelinquent, EmploymentStatusDuration, DebtToIncomeRatio, LoanOriginalAmount, LoanOriginalAmount, and LenderYield.
 
+_Note_
+This project focused mainly on using matplotlib and seaborn visualizations to uncover insights.
+Part One contains the exploratory phase where I endeavor to uncover insights whereas Part 2 is the explanatory phase where I explain the key findings of the investigation with just a few visualizations. I have also created a slide presentation of part 2.
 
 ## Summary of Findings
 
